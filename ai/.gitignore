@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a12285ca3748c2bee7ece0a71bc2c35a21d67c4eddb9f2454bd41dda448f127
-size 275
+# Created by https://www.toptal.com/developers/gitignore/api/cuda
+# Edit at https://www.toptal.com/developers/gitignore?templates=cuda
+
+### CUDA ###
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+*.deb
+*.pyc
+__pycache__/
+
+# End of https://www.toptal.com/developers/gitignore/api/cuda
