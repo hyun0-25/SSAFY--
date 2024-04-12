@@ -53,10 +53,10 @@
 ## :three: 화면 설명
 <table>
     <tr height="140px">
-        <td align="center" ><img width="160px" src="https://github.com/blacklabf/springboot-study/assets/108640460/1ea043c7-1af7-4f5b-94ad-25614f0ef3e8"/></td>
-        <td align="center" ><img width="160px" src="https://github.com/blacklabf/springboot-study/assets/108640460/3f7b1f8a-c147-4a2e-a202-c63fdbaf0a42"/></td>
-        <td align="center" ><img width="160px" src="https://github.com/blacklabf/springboot-study/assets/108640460/81e86de9-f34c-4310-9205-bb9286513d47"/></td>
-        <td align="center" ><img width="160px" src="https://github.com/blacklabf/joblog/assets/108640460/20e36918-9cea-4458-8570-10fd01d531c2"/></td>
+        <td align="center" ><img width="200px" src="https://github.com/blacklabf/springboot-study/assets/108640460/1ea043c7-1af7-4f5b-94ad-25614f0ef3e8"/></td>
+        <td align="center" ><img width="200px" src="https://github.com/blacklabf/springboot-study/assets/108640460/3f7b1f8a-c147-4a2e-a202-c63fdbaf0a42"/></td>
+        <td align="center" ><img width="200px" src="https://github.com/blacklabf/springboot-study/assets/108640460/81e86de9-f34c-4310-9205-bb9286513d47"/></td>
+        <td align="center" ><img width="200px" src="https://github.com/blacklabf/joblog/assets/108640460/20e36918-9cea-4458-8570-10fd01d531c2"/></td>
     <tr/>
     <tr>
        <td align="center">🔼 메인페이지</td>
@@ -68,10 +68,10 @@
 <br><br>
 <table>
     <tr height="140px">
-        <td align="center" ><img width="160px" src="https://github.com/blacklabf/springboot-study/assets/108640460/b6a972fb-a294-4456-a223-3e6d08bb97e3"/> </td>
-        <td align="center" ><img width="160px" src="https://github.com/blacklabf/springboot-study/assets/108640460/6797396a-6820-4f02-b756-527c0e33a577"/> </td>
-        <td align="center" ><img width="160px" src="https://github.com/blacklabf/springboot-study/assets/108640460/2e24e230-5d0d-4d70-871b-6878fc643a46"/> </td>
-        <td align="center" ><img width="160px" src="https://github.com/blacklabf/springboot-study/assets/108640460/cd2de631-eda1-410c-81a7-358a3a537617"/> </td>
+        <td align="center" ><img width="200px" src="https://github.com/blacklabf/springboot-study/assets/108640460/b6a972fb-a294-4456-a223-3e6d08bb97e3"/> </td>
+        <td align="center" ><img width="200px" src="https://github.com/blacklabf/springboot-study/assets/108640460/6797396a-6820-4f02-b756-527c0e33a577"/> </td>
+        <td align="center" ><img width="200px" src="https://github.com/blacklabf/springboot-study/assets/108640460/2e24e230-5d0d-4d70-871b-6878fc643a46"/> </td>
+        <td align="center" ><img width="200px" src="https://github.com/blacklabf/springboot-study/assets/108640460/cd2de631-eda1-410c-81a7-358a3a537617"/> </td>
     <tr/>
     <tr>
        <td align="center">🔼 가져가기 및 감사인사</td>
