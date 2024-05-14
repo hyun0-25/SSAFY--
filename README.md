@@ -66,9 +66,9 @@
 
 <table>
     <tr height="120px">
-        <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/1ea043c7-1af7-4f5b-94ad-25614f0ef3e8"/></td>
-        <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/3f7b1f8a-c147-4a2e-a202-c63fdbaf0a42"/></td>
-      <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/b6a972fb-a294-4456-a223-3e6d08bb97e3"/> </td>
+        <td align="center" ><img width="250px" src="https://github.com/blacklabf/springboot-study/assets/108640460/1ea043c7-1af7-4f5b-94ad-25614f0ef3e8"/></td>
+        <td align="center" ><img width="250px" src="https://github.com/blacklabf/springboot-study/assets/108640460/3f7b1f8a-c147-4a2e-a202-c63fdbaf0a42"/></td>
+      <td align="center" ><img width="250px" src="https://github.com/blacklabf/springboot-study/assets/108640460/b6a972fb-a294-4456-a223-3e6d08bb97e3"/> </td>
     <tr/>
     <tr>
        <td align="center">🔼 메인페이지</td>
@@ -80,9 +80,9 @@
 <br><br>
 <table>
     <tr height="120px">
-        <td align="center" ><img width="300px" src="https://github.com/blacklabf/hansotbab/assets/108640460/d90904f3-1199-43b5-b2be-dfbae06141ce"/></td>
-        <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/81e86de9-f34c-4310-9205-bb9286513d47"/></td>
-        <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/6797396a-6820-4f02-b756-527c0e33a577"/> </td>
+        <td align="center" ><img width="250px" src="https://github.com/blacklabf/hansotbab/assets/108640460/d90904f3-1199-43b5-b2be-dfbae06141ce"/></td>
+        <td align="center" ><img width="250px" src="https://github.com/blacklabf/springboot-study/assets/108640460/81e86de9-f34c-4310-9205-bb9286513d47"/></td>
+        <td align="center" ><img width="250px" src="https://github.com/blacklabf/springboot-study/assets/108640460/6797396a-6820-4f02-b756-527c0e33a577"/> </td>
     <tr/>
     <tr>
        <td align="center">🔼 음식등록시, <br>검색어 자동완성</td>
@@ -93,9 +93,9 @@
 <br></br>
 <table>
     <tr height="120px"> 
-        <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/2e24e230-5d0d-4d70-871b-6878fc643a46"/> </td>
-        <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/cd2de631-eda1-410c-81a7-358a3a537617"/> </td>
-                <td align="center" ><img width="300px" src="https://github.com/blacklabf/hansotbab/assets/108640460/762cec73-dc63-400c-b847-59d7ac6f0bde"/> </td>
+        <td align="center" ><img width="250px" src="https://github.com/blacklabf/springboot-study/assets/108640460/2e24e230-5d0d-4d70-871b-6878fc643a46"/> </td>
+        <td align="center" ><img width="250px" src="https://github.com/blacklabf/springboot-study/assets/108640460/cd2de631-eda1-410c-81a7-358a3a537617"/> </td>
+        <td align="center" ><img width="250px" src="https://github.com/blacklabf/hansotbab/assets/108640460/762cec73-dc63-400c-b847-59d7ac6f0bde"/> </td>
     <tr/>
     <tr>
        <td align="center">🔼 즐겨찾기 및 <br>음식등록알림</td>
